@@ -6,4 +6,8 @@ author:
   twitter: gerryeisenhaur 
 
 production_url : http://gerry.github.io/
-markdown: redcarpet
+markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: false
+  highlighter: rouge
