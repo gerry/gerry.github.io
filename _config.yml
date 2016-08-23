@@ -6,5 +6,5 @@ author:
   twitter: gerryeisenhaur 
 
 production_url : http://gerry.github.io/
-markdown:    kramdown
+markdown: redcarpet
 highlighter: pygments
