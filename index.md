@@ -11,7 +11,7 @@ I've been too busy playing $work_title to actually create/maintain any resemblan
   * I don't usually publish code to my [github](https://www.github.com/gerry) but sometimes I will dump stuff in a [gist](https://gist.github.com/gerry).
   * You can also stalk me on [LinkedIn](https://www.linkedin.com/in/gerryeisenhaur) if you're into that sort of thing.
 
-Sometimes I publish vulnerabilities...
+I (used to) publish vulnerabilities every so often...
 
   * [(CVE-2011-0364) Cisco Security Agent Remote Code Execution Vulnerability](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-0364)
   * [(CVE-2009-4821) D-Link DIR-615 'apply.cgi' Security Bypass Vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-4821)
@@ -20,11 +20,12 @@ Sometimes I publish vulnerabilities...
   * [Random XSS Dump](https://gist.github.com/gerry/765822)
   * [Various TeamPass issues](https://gist.github.com/gerry/860117891bbaeb161fdc7f66d08622d0)
  
-And exploits/tools...
+And exploits or tools... 
 
   * [CVE-2011-0364/st_upload exploit](https://gist.github.com/gerry/907090)
-  * [Various HIPS Evasions](https://gist.github.com/gerry/666941d68230f4634a0b)
+  * [Weathermap Editor (cacti plugin) Arbitrary Code Execution](https://gist.github.com/gerry/d977490319a474b9d777538452018b54)
   * [Decrypt DbVisualizer credentials](https://gist.github.com/gerry/c4602c23783d894b8d96)
+  * [Various HIPS Evasions](https://gist.github.com/gerry/666941d68230f4634a0b)
   * [Extract embedded HTL source from Cisco Security Agent MC](https://gist.github.com/gerry/765797)
 
 ### GPG Key
