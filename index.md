@@ -1,3 +1,6 @@
+---
+title: Gerry Eisenhaur
+---
 # Gerry Eisenhaur
 I've been too busy playing $work_title to actually create/maintain any resemblance of a web page, but here's some basic info in the meantime.
 
