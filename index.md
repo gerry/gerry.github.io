@@ -11,11 +11,20 @@ I've been too busy playing $work_title to actually create/maintain any resemblan
   * I don't usually publish code to my [github](https://www.github.com/gerry) but sometimes I will dump stuff in a [gist](https://gist.github.com/gerry).
   * You can also stalk me on [LinkedIn](https://www.linkedin.com/in/gerryeisenhaur) if you're into that sort of thing.
 
-### Some old vulnerabilities
+#### Some old vulnerabilities
+Sometimes I publish vulnerabilities...
   * [Cisco Security Agent Remote Code Execution Vulnerability (CVE-2011-0364)](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-0364)
   * [D-Link DIR-615 'apply.cgi' Security Bypass Vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-4821)
   * [Directory traversal vulnerability in Mozilla Firefox/Thunderbird before 2.0.0.12, and SeaMonkey before 1.1.8 (CVE-2008-0418)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-0418)
   * [Multiple Vendor SSH Server Remote Buffer Overflow Vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-2407)
+  * [Random XSS Dump](https://gist.github.com/gerry/765822)
+  * [Various TeamPass issues](https://gist.github.com/gerry/860117891bbaeb161fdc7f66d08622d0)
+ 
+And exploits/tools...
+  * [CVE-2011-0364/st_upload exploit](https://gist.github.com/gerry/907090)
+  * [Various HIPS Evasions](https://gist.github.com/gerry/666941d68230f4634a0b)
+  * [Decrypt DbVisualizer credentials](https://gist.github.com/gerry/c4602c23783d894b8d96)
+  * [Extract embedded HTL source from Cisco Security Agent MC](https://gist.github.com/gerry/765797)
 
 ### GPG Key
 Finger print: `F120 587B A599 B6B6 1ED6  1A37 DD61 36D6 59E5 4DEF`
