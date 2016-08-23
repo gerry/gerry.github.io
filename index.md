@@ -12,10 +12,10 @@ I've been too busy playing $work_title to actually create/maintain any resemblan
   * You can also stalk me on [LinkedIn](https://www.linkedin.com/in/gerryeisenhaur) if you're into that sort of thing.
 
 Sometimes I publish vulnerabilities...
-  * [Cisco Security Agent Remote Code Execution Vulnerability (CVE-2011-0364)](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-0364)
-  * [D-Link DIR-615 'apply.cgi' Security Bypass Vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-4821)
-  * [Directory traversal vulnerability in Mozilla Firefox/Thunderbird before 2.0.0.12, and SeaMonkey before 1.1.8 (CVE-2008-0418)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-0418)
-  * [Multiple Vendor SSH Server Remote Buffer Overflow Vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-2407)
+  * [(CVE-2011-0364) Cisco Security Agent Remote Code Execution Vulnerability](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-0364)
+  * [(CVE-2009-4821) D-Link DIR-615 'apply.cgi' Security Bypass Vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-4821)
+  * [(CVE-2008-0418) Directory traversal vulnerability in Mozilla Firefox/Thunderbird before 2.0.0.12, and SeaMonkey before 1.1.8](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-0418)
+  * [(CVE-2006-2407) Multiple Vendor SSH Server Remote Buffer Overflow Vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-2407)
   * [Random XSS Dump](https://gist.github.com/gerry/765822)
   * [Various TeamPass issues](https://gist.github.com/gerry/860117891bbaeb161fdc7f66d08622d0)
  
