@@ -21,7 +21,6 @@ I've been too busy playing $work_title to actually create/maintain any resemblan
 Finger print: `F120 587B A599 B6B6 1ED6  1A37 DD61 36D6 59E5 4DEF`
 
 ```
-wtf
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
 
