@@ -6,5 +6,4 @@ author:
   twitter: gerryeisenhaur 
 
 production_url : http://gerry.github.io/
-kramdown:
-  input: GFM
+markdown: redcarpet
