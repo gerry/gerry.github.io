@@ -19,7 +19,8 @@ I've been too busy playing $work_title to actually create/maintain any resemblan
 
 ### GPG Key
 Finger print: `F120 587B A599 B6B6 1ED6  1A37 DD61 36D6 59E5 4DEF`
-```-----BEGIN PGP PUBLIC KEY BLOCK-----
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
 
 mQENBFHeT4IBCADkn8louwT/AHTf1rApHySivJF11R++oRc1pXDq2H6nQOtsuZv4
