@@ -12,6 +12,7 @@ I've been too busy playing $work_title to actually create/maintain any resemblan
   * You can also stalk me on [LinkedIn](https://www.linkedin.com/in/gerryeisenhaur) if you're into that sort of thing.
 
 Sometimes I publish vulnerabilities...
+
   * [(CVE-2011-0364) Cisco Security Agent Remote Code Execution Vulnerability](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-0364)
   * [(CVE-2009-4821) D-Link DIR-615 'apply.cgi' Security Bypass Vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-4821)
   * [(CVE-2008-0418) Directory traversal vulnerability in Mozilla Firefox/Thunderbird before 2.0.0.12, and SeaMonkey before 1.1.8](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-0418)
@@ -20,6 +21,7 @@ Sometimes I publish vulnerabilities...
   * [Various TeamPass issues](https://gist.github.com/gerry/860117891bbaeb161fdc7f66d08622d0)
  
 And exploits/tools...
+
   * [CVE-2011-0364/st_upload exploit](https://gist.github.com/gerry/907090)
   * [Various HIPS Evasions](https://gist.github.com/gerry/666941d68230f4634a0b)
   * [Decrypt DbVisualizer credentials](https://gist.github.com/gerry/c4602c23783d894b8d96)
