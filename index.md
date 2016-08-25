@@ -27,6 +27,7 @@ And exploits or tools...
   * [Decrypt DbVisualizer credentials](https://gist.github.com/gerry/c4602c23783d894b8d96)
   * [Various HIPS Evasions](https://gist.github.com/gerry/666941d68230f4634a0b)
   * [Extract embedded HTL source from Cisco Security Agent MC](https://gist.github.com/gerry/765797)
+  * [Elastic Onion: Getting onionscan results into elastic search](https://github.com/gerry/elasticonion)
 
 ### GPG Key
 Finger print: `F120 587B A599 B6B6 1ED6  1A37 DD61 36D6 59E5 4DEF`
