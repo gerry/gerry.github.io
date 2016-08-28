@@ -10,6 +10,7 @@ I've been too busy playing $work_title to actually create/maintain any resemblan
   * Follow me on [Twitter](https://www.twiter.com/gerryeisenhaur) or [Keybase.io](https://keybase.io/gerry)
   * I don't usually publish code to my [github](https://www.github.com/gerry) but sometimes I will dump stuff in a [gist](https://gist.github.com/gerry).
   * You can also stalk me on [LinkedIn](https://www.linkedin.com/in/gerryeisenhaur) if you're into that sort of thing.
+  * [ricochet:edf6ptkynippohdj](ricochet:edf6ptkynippohdj)
 
 I (used to) publish vulnerabilities every so often...
 
