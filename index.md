@@ -23,6 +23,7 @@ I (used to) publish vulnerabilities every so often...
  
 And exploits or tools... 
 
+  * [pyevilgrade](https://github.com/gerry/pyevilgrade)
   * [CVE-2011-0364/st_upload exploit](https://gist.github.com/gerry/907090)
   * [Weathermap Editor (cacti plugin) Arbitrary Code Execution](https://gist.github.com/gerry/d977490319a474b9d777538452018b54)
   * [Decrypt DbVisualizer credentials](https://gist.github.com/gerry/c4602c23783d894b8d96)
